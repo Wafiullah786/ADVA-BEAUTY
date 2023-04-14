@@ -2,17 +2,19 @@
 
 <img src = "Adva Beauty.jpg" width ="980" /> 
 
+INTRODUCTION
+
 Adva Beauty is an e-commerce store that specializes in beauty and skincare products. The online store provides customers with a wide range of high-quality products from top beauty brands, making it a one-stop-shop for all beauty needs. Customers can easily browse the online store, add items to their cart, and check out securely using a variety of payment methods. Adva Beauty also offers features such as product reviews, which allow customers to read and leave feedback on products, helping other customers make informed purchasing decisions. With its user-friendly interface, fast shipping, and extensive product selection, Adva Beauty is a convenient and reliable option for those looking to purchase beauty and skincare products online.
 
-SYSTEM FEATURES
+SYSTEM FEATURES:
 
-ADMIN FEATURES
+ADMIN FEATURES:
 1. Manage Products
 2. Manage Orders
 3. Manage Gallery
 4. Manage Contacts
 
-CLIENT SIDE FEATURES
+CLIENT SIDE FEATURES:
 1. Registration
 2. Login
 3. View Products
@@ -22,6 +24,13 @@ CLIENT SIDE FEATURES
 7. View Gallery
 8. Comment On Gallery
 
-MOBILE APP SCREENSHOTS
+MOBILE APP SCREENSHOTS:
 
 <img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" /> <img src = "7.png" width ="250" />
+
+APPLICATION INSTALLATION LINKS:
+
+You can install the application through APK link given below, just open the link and install the application.
+
+APK Link: https://drive.google.com/file/d/1g6KTJze9iGLtF5BdschiR2-cmJKkonYc/view?usp=sharing
+
