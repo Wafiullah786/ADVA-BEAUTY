@@ -23,6 +23,16 @@ CLIENT SIDE FEATURES:
 6. Return Order
 7. View Gallery
 8. Comment On Gallery
+9. Mult-language Support
+
+TECHNOLOGIES & TOOLS USED
+1. Flutter
+2. Laravel(php) Server Side
+3. SQL Database
+4. Cubit State Management
+5. Payment Gateway
+6. REST APIs
+7. Adbobe Xd(Used for UI Prototype)
 
 MOBILE APP SCREENSHOTS:
 
