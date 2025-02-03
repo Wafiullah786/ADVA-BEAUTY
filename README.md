@@ -38,11 +38,6 @@ MOBILE APP SCREENSHOTS:
 
 <img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" /> <img src = "7.png" width ="250" />
 
-APPLICATION INSTALLATION LINKS:
-
-You can install the application through APK link given below, just open the link and install the application.
-
-APK Link: https://drive.google.com/file/d/1g6KTJze9iGLtF5BdschiR2-cmJKkonYc/view?usp=sharing
 
 
                                                               THANKS
